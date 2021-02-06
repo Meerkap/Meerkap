@@ -1,4 +1,4 @@
-# Hello, Pablo is Here! 👋
+# Pablo´s Game Dev projects! 👋
 
 
 `Third Clarke law; Any sufficiently advanced technology is indistinguishable from magic.`<br><em> I'm just a simple **Mechatronic engineer**, **backend developer**, **#MachineLearning** and **#Gamedev** lover, I have delusion of **youtuber** and now **streamer**, There is no challenge big enough not to try, My code will change the **world** some day.</em>
@@ -16,29 +16,12 @@
 </a>
 
 
-## Tech Stack ⌨
-- Java ⭐
-- Javascript and NodeJs ⭐
-- Spigot (Game Dev) ⭐
-- SQL and Relational Databases
-- C++
-- .Net Technologies
-- Linux, and Docker
-
-
-## Awesome Projects 📚
-- [Worldregion 🌿1 ⭐1 🚰](https://github.com/PablockDA/WorldRegion) 
-- [Pablockda.github.io 🌿0 ⭐0 🤖](https://github.com/PablockDA/pablockda.github.io) 
+## Game Dev Projects 🚰
+- [Worldregion  🚰](https://github.com/PablockDA/WorldRegion) 
 
 
 
 <br>
-
-<p align="center">
-<a href="#user-30538313-pinned-items-reorder-form">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=PablockDA&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Hector's Github Stats"/>
-</a>
-</p>
 
 <div align="center">
 <h3 align="center">Let's connect 😋</h3>
