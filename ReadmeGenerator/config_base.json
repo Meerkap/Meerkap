@@ -5,25 +5,20 @@
             "githubUser": "PablockDA",
             "categories": [
                 {
-                    "name": "AI",
+                    "name": "Web",
                     "emoji": "🤖",
-                    "tag": "ai"
+                    "tag": "web"
                 },
                 {
-                    "name": "GameDev",
-                    "emoji": "🎮",
-                    "tag": "gamedev"
+                    "name": "Game Dev",
+                    "emoji": "🚰",
+                    "tag": "spigot"
                 },
                 {
-                    "name": "Blockchain",
-                    "emoji": "🔑",
-                    "tag": "blockchain"
-                },
-                {
-                    "name": "Backend",
+                    "name": "Multiplatform Apps",
                     "emoji": "💻",
-                    "tag": "backend"
-                }
+                    "tag": "mapp"
+                },
             ]
         }
     },
@@ -51,15 +46,13 @@
         "data": {
             "title": "Tech Stack ⌨",
             "tech": [
-                "Python and Flask, Django ⭐",
-                "Pytorch ⭐",
-                "C# and .Net Technologies",
-                "Javascript and NodeJs",
+                "Java ⭐",
+                "Javascript and NodeJs ⭐",
+                "Spigot (Game Dev) ⭐",
                 "SQL and Relational Databases",
-                "Linux, AWS and Docker",
-                "Unity3D ⭐",
-                "Arduino and electronics",
-                "ASM for Pics"
+                "C++",
+                ".Net Technologies",
+                "Linux, and Docker"
             ]
         }
     },
@@ -69,7 +62,7 @@
             "title": "Awesome Projects 📚",
             "count": 9,
             "showEmojis": true,
-            "showScore": false
+            "showScore": true
         }
     },
     {
@@ -78,7 +71,7 @@
     },
     {
         "type": "extra",
-        "data": "<p align=\"center\">\n<a href=\"#user-30538313-pinned-items-reorder-form\">\n<img align=\"center\" src=\"https://github-readme-stats.vercel.app/api?username=HectorPulido&bg_color=30,e96443,904e95&title_color=fff&text_color=fff\" alt=\"Hector's Github Stats\"/>\n</a>\n</p>"
+        "data": "<p align=\"center\">\n<a href=\"#user-30538313-pinned-items-reorder-form\">\n<img align=\"center\" src=\"https://github-readme-stats.vercel.app/api?username=PablockDA&bg_color=30,e96443,904e95&title_color=fff&text_color=fff\" alt=\"Hector's Github Stats\"/>\n</a>\n</p>"
     },
     {
         "type": "social",
