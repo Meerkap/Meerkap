@@ -12,7 +12,7 @@
 
 
 <a href="https://twitter.com/PablockDA">
-<img align="right" height="auto" width="200" src="https://github.com/PablockDA/PablockDA/raw/master/img/pequesoft.png"/>
+<img align="right" height="auto" width="200" src="https://github.com/PablockDA/PablockDA/raw/master/img/me.png"/>
 </a>
 
 

@@ -1,7 +1,7 @@
 # Hello, Pablo is Here! 👋
 
 
-`Third Clarke law; Any sufficiently advanced technology is indistinguishable from magic.`<br><em> I'm just a simple **Mechatronic engineer**, **backend developer**, **#MachineLearning** and **#Gamedev** lover, I have delusion of **youtuber** and now **streamer**, There is no challenge big enough not to try, My code will change the **world** some day.</em>
+`Hello World!`<br><em> I'm just a simple **engineer**, **Web Developer**, **#Multiplatform Developer** and **#Gamedev** lover.</em>
 
 
 <p align="center">
@@ -12,15 +12,15 @@
 
 
 <a href="https://twitter.com/PablockDA">
-<img align="right" height="auto" width="200" src="https://github.com/PablockDA/PablockDA/raw/master/img/pequesoft.png"/>
+<img align="right" height="auto" width="200" src="https://github.com/PablockDA/PablockDA/raw/master/img/me.png"/>
 </a>
 
 
 ## Tech Stack ⌨
 - Java ⭐
 - Javascript and NodeJs ⭐
+- SQL and Relational Databases⭐
 - Spigot (Game Dev) ⭐
-- SQL and Relational Databases
 - C++
 - .Net Technologies
 - Linux, and Docker
