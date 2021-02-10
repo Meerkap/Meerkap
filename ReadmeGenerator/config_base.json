@@ -28,7 +28,7 @@
     },
     {
         "type": "description",
-        "data": "`Hello World!`<br><em> I'm just a simple **Web Developer**, **#Multiplatform Developer** and **#Gamedev** lover.</em>"
+        "data": "`Hello World!`<br><em> I'm just a simple **Web Developer**, **Multiplatform Developer** and **Gamedev** lover.</em>"
     },
     {
         "type": "categories",
@@ -59,7 +59,7 @@
     {
         "type": "awesomeProjects",
         "data": {
-            "title": "Awesome Projects 📚",
+            "title": "My Projects 📚",
             "count": 9,
             "showEmojis": true,
             "showScore": true
@@ -86,12 +86,12 @@
                 {
                     "alt": "Pablo´s Portfolio",
                     "url": "https://www.spigotmc.org/resources/authors/pablockda.106309/",
-                    "image": "https://github.com/PablockDA/PablockDA/raw/master/img/faucet.svg"
+                    "image": "https://github.com/PablockDA/PablockDA/raw/master/img/portfolio.svg"
                 },
                 {
                     "alt": "Pablo´s Spigot",
                     "url": "https://www.spigotmc.org/resources/authors/pablockda.106309/",
-                    "image": "https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"
+                    "image": "https://www.vectorlogo.zone/logos/youtube/faucet.svg"
                 }
             ]
         }
