@@ -31,7 +31,7 @@
 <a href="https://www.spigotmc.org/resources/authors/pablockda.106309/" target="blank">
 <img align="center" width="30px" alt="Pablo´s Portfolio" src="https://github.com/PablockDA/PablockDA/raw/master/img/portfolio.svg"/></a> &nbsp; &nbsp;
 <a href="https://www.spigotmc.org/resources/authors/pablockda.106309/" target="blank">
-<img align="center" width="30px" alt="Pablo´s Spigot" src="https://www.vectorlogo.zone/logos/youtube/faucet.svg"/></a> &nbsp; &nbsp;
+<img align="center" width="30px" alt="Pablo´s Spigot" src="https://github.com/PablockDA/PablockDA/raw/master/img/faucet.svg"/></a> &nbsp; &nbsp;
 
 </p>
 
