@@ -29,6 +29,7 @@
 ## Awesome Projects 📚
 - [Worldregion 🌿1 ⭐1 🚰](https://github.com/PablockDA/WorldRegion) 
 - [Pablockda.github.io 🌿0 ⭐0 🤖](https://github.com/PablockDA/pablockda.github.io) 
+- [Freetowers 🌿0 ⭐0 🚰](https://github.com/PablockDA/FreeTowers) 
 
 
 
