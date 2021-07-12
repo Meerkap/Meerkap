@@ -12,7 +12,7 @@
 </p>
 
 
-<a href="https://twitter.com/PablockDA">
+<a href="https://meerkatdeveloper.github.io/">
 <img align="right" height="auto" width="200" src="https://github.com/MeerkatDeveloper/MeerkatDeveloper/raw/master/img/pequesoft.png"/>
 </a>
 
