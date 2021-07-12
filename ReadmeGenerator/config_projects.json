@@ -14,7 +14,7 @@
     {
         "type": "rightImage",
         "data": {
-            "image": "https://github.com/PablockDA/PablockDA/raw/master/img/me.png",
+            "image": "https://github.com/MeerkatDeveloper/MeerkatDeveloper/raw/master/img/me.png",
             "link": "https://twitter.com/PablockDA"
         }
     },
@@ -43,8 +43,8 @@
                 },
                 {
                     "alt": "Pablo´s Portfolio",
-                    "url": "https://github.com/PablockDA/PablockDA",
-                    "image": "https://github.com/PablockDA/PablockDA/raw/master/img/portfolio.svg"
+                    "url": "https://meerkatdeveloper.github.io/",
+                    "image": "https://github.com/MeerkatDeveloper/MeerkatDeveloper/raw/master/img/portfolio.svg"
                 },
                 {
                     "alt": "Pablo´s Spigot",
