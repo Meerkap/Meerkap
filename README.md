@@ -11,7 +11,7 @@
 </p>
 
 
-<a href="https://meerkatdeveloper.github.io/">
+<a href="https://twitter.com/PablockDA">
 <img align="right" height="auto" width="200" src="https://github.com/MeerkatDeveloper/MeerkatDeveloper/raw/master/img/me.png"/>
 </a>
 
@@ -28,7 +28,7 @@
 
 ## My Projects 📚
 - [Worldregion 🌿1 ⭐1 🚰](https://github.com/MeerkatDeveloper/WorldRegion) 
-- [MeerkatDeveloper.github.io 🌿0 ⭐0 🤖](https://meerkatdeveloper.github.io/) 
+- [Meerkatdeveloper.github.io 🌿0 ⭐0 🤖](https://github.com/MeerkatDeveloper/meerkatdeveloper.github.io) 
 - [Freetowers 🌿0 ⭐0 🚰](https://github.com/MeerkatDeveloper/FreeTowers) 
 
 
@@ -37,7 +37,7 @@
 
 <p align="center">
 <a href="#user-30538313-pinned-items-reorder-form">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MeerkatDeveloper&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Pablo's Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MeerkatDeveloper&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Hector's Github Stats"/>
 </a>
 </p>
 
@@ -47,7 +47,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/meerkatdev/" target="blank">
 <img align="center" width="30px" alt="Pablo's LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a> &nbsp; &nbsp;
-<a href="https://github.com/MeerkatDeveloper/MeerkatDeveloper" target="blank">
+<a href="https://meerkatdeveloper.github.io/" target="blank">
 <img align="center" width="30px" alt="Pablo´s Portfolio" src="https://github.com/MeerkatDeveloper/MeerkatDeveloper/raw/master/img/portfolio.svg"/></a> &nbsp; &nbsp;
 <a href="https://www.spigotmc.org/resources/authors/pablockda.106309/" target="blank">
 <img align="center" width="30px" alt="Pablo´s Spigot" src="https://github.com/MeerkatDeveloper/MeerkatDeveloper/raw/master/img/faucet.svg"/></a> &nbsp; &nbsp;
