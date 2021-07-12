@@ -5,38 +5,35 @@
 
 
 <p align="center">
-    <a href="https://github.com/MeerkatDeveloper/MeerkatDeveloper/blob/master/web.md">🤖</a>
-    <a href="https://github.com/MeerkatDeveloper/MeerkatDeveloper/blob/master/spigot.md">🚰</a>
-    <a href="https://github.com/MeerkatDeveloper/MeerkatDeveloper/blob/master/mapp.md">💻</a>
+<a href="https://github.com/MeerkatDeveloper/MeerkatDeveloper/blob/master/web.md">🤖</a>
+<a href="https://github.com/MeerkatDeveloper/MeerkatDeveloper/blob/master/spigot.md">🚰</a>
+<a href="https://github.com/MeerkatDeveloper/MeerkatDeveloper/blob/master/mapp.md">💻</a>
 </p>
 
 
-<a href="https://meerkatdeveloper.github.io/">
-    <img align="right" height="auto" width="200" src="https://github.com/MeerkatDeveloper/MeerkatDeveloper/raw/master/img/me.png"/>
+<a href="https://twitter.com/PablockDA">
+<img align="right" height="auto" width="200" src="https://github.com/MeerkatDeveloper/MeerkatDeveloper/raw/master/img/me.png"/>
 </a>
 
 
 ## Web Projects 🤖
-- [MeerkatDeveloper.github.io  🤖](https://meerkatdeveloper.github.io/)
+- [Meerkatdeveloper.github.io  🤖](https://github.com/MeerkatDeveloper/meerkatdeveloper.github.io) 
 
 
 
 <br>
 
 <div align="center">
-    <h3 align="center">Let's connect 😋</h3>
+<h3 align="center">Let's connect 😋</h3>
 </div>
-
 <p align="center">
-    <a href="https://www.linkedin.com/in/meerkatdev/" target="blank">
-        <img align="center" width="30px" alt="Pablo's LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
-    </a> &nbsp; &nbsp;
-    <a href="https://github.com/MeerkatDeveloper/MeerkatDeveloper" target="blank">MeerkatDeveloper
-        <img align="center" width="30px" alt="Pablo´s Portfolio" src="https://github.com/MeerkatDeveloper/MeerkatDeveloper/raw/master/img/portfolio.svg"/>
-    </a> &nbsp; &nbsp;
-    <a href="https://www.spigotmc.org/resources/authors/pablockda.106309/" target="blank">
-        <img align="center" width="30px" alt="Pablo´s Spigot" src="https://github.com/MeerkatDeveloper/MeerkatDeveloper/raw/master/img/faucet.svg"/>
-    </a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/meerkatdev/" target="blank">
+<img align="center" width="30px" alt="Pablo's LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a> &nbsp; &nbsp;
+<a href="https://meerkatdeveloper.github.io/" target="blank">
+<img align="center" width="30px" alt="Pablo´s Portfolio" src="https://github.com/MeerkatDeveloper/MeerkatDeveloper/raw/master/img/portfolio.svg"/></a> &nbsp; &nbsp;
+<a href="https://www.spigotmc.org/resources/authors/pablockda.106309/" target="blank">
+<img align="center" width="30px" alt="Pablo´s Spigot" src="https://github.com/MeerkatDeveloper/MeerkatDeveloper/raw/master/img/faucet.svg"/></a> &nbsp; &nbsp;
+
 </p>
 
 
