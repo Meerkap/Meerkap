@@ -62,7 +62,8 @@
             "title": "My Projects 📚",
             "count": 9,
             "showEmojis": true,
-            "showScore": true
+            "showScore": true,
+            "ignore_pinned": false
         }
     },
     {
