@@ -17,7 +17,7 @@
 
 
 ## Web Projects 🤖
-- [MeerkatDeveloper.github.io  🤖](https://meerkatdeveloper.github.io/) 
+- [MeerkatDeveloper.github.io  🤖](https://meerkatdeveloper.github.io/)
 
 
 
